@@ -18,9 +18,6 @@ if (population > 10000 ){
  
  printf("cities with Population more than 10000 are : %d", population_count);
 
-
-
-
 return 0 ;
 
 }
