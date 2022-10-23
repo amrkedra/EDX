@@ -17,3 +17,4 @@ printf("the entire city will take %d days to be infected" , day);
 return 0 ;
 
 }
+
