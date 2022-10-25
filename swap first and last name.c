@@ -6,7 +6,7 @@ char first[100] , last[100] ;
 printf("please enter the number of cards :");
 scanf("%d" , &num_of_cards);
 
-for (i=0; i,num_of_cards; i++){
+for (i=0; i<num_of_cards; i++){
 
 printf("enter first name : ");
 scanf("%s" , first);
